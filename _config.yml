@@ -1,7 +1,7 @@
 name: CryptoSpark
 favicon: null
-layout_spectrum: 0.7886996399611235
-typography_spectrum: 0.23278182256035507
+layout_spectrum: 0
+typography_spectrum: 0.55204
 cta:
   domain: null
   bucket: null
