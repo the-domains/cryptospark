@@ -1,6 +1,6 @@
 name: CryptoSpark
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.76113
 typography_spectrum: 0.55204
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#f7a20c'
-    - '#f38a08'
-    - '#ffeb83'
-    - '#fcc856'
-  brandStrength: 0.5
-  lightness: 0.75
-  saturation: 0.0625
+    - '#000004'
+    - '#cee9fa'
+    - '#283c54'
+    - '#3c678a'
+    - '#7badd0'
+  brandStrength: 1
+  lightness: 0.5625
+  saturation: 0.4375
   rhythmicContrast: 0.5
 purpose: []
